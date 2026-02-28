@@ -6,7 +6,7 @@ from PIL import Image
 import numpy as np
 
 st.set_page_config(page_title="Phát hiện Xe Việt Nam", layout="centered")
-st.title("Phát hiện Xe (Dự án AI đơn giản cho beginner)")
+st.title("Phát hiện Xe")
 
 st.write("Upload ảnh xe máy/ô tô Việt Nam để AI phát hiện!")
 
